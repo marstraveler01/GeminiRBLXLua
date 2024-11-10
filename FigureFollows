@@ -1,4 +1,4 @@
-print("Loaded! Made with love by marstraveler and Gemini")
+print("[Figure Follows] Loaded! Made with love by marstraveler and Gemini")
 
 while true do
     game:GetService("ReplicatedStorage").Bricks.Footstep:FireServer()
