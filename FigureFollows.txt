@@ -1,6 +1,0 @@
-print("Loaded! Made with love by marstraveler and Gemini")
-
-while true do
-    game:GetService("ReplicatedStorage").Bricks.Footstep:FireServer()
-    wait(0.05) -- Adjust the delay as needed
-end
