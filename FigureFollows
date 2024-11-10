@@ -1,3 +1,4 @@
+--PS:Loadstring is: loadstring(game:HttpGet("https://raw.githubusercontent.com/marstraveler01/GeminiRBLXLua/refs/heads/FiguresLibary-RakeV8/FigureFollows"))()
 print("[Figure Follows] Loaded! Made with love by marstraveler and Gemini")
 
 while true do
